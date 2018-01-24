@@ -2,8 +2,18 @@ import java.io.BufferedReader;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
 import java.io.InputStreamReader;
-
-public class MainJava{
+/**
+   * file: StringtoCypherText.java
+   * author: Neha Ersavadla
+   * course: MSCS630L-231
+   * assignment: lab 1
+   * due date: January 24, 2018
+   * version: 1.3
+   * 
+   * This file contains the declaration of the 
+   * String to CypherText abstract data type.
+   */
+public class StringtoCypherText{
  
 public static void main(String[] args){
        try{
