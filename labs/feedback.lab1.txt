@@ -1,0 +1,6 @@
+8 pts
+
+Functionality: pass
+Style check:
+- there is incorrect indentation
+- the header information does not follow style
