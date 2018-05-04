@@ -1,0 +1,32 @@
+38 pts
+
+Neha,
+
+About your programs...
+
+Functionality
+
+- Could not test functionality because programs cannot be compiled. Root cause
+  seems to be the fact that the name of the file does not match the name of
+  your class.  -1pt
+
+
+Style Check
+
+- All programs are missing the header: -1pt
+  /**
+   * file: SinglyLinkedList.java
+   * author: student name
+   * course: CMPT 220
+   * assignment: project 1
+   * due date: August 30, 2003
+   * version: 1.3
+   * 
+   * This file contains the declaration of the SinglyLinkedList abstract data
+   * type.
+   */
+
+
+Peace,
+
+- Dr. Rivas
